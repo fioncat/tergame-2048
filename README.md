@@ -8,7 +8,7 @@ You can use this game to practice `hjkl` operations in the vim editor.
 
 ```bash
 $ go install github.com/fioncat/ter2048@latest
-$ ter2048  # Start game
+$ tergame-2048 # Start game
 ```
 
 ## Screenshot
