@@ -1,4 +1,4 @@
-module github.com/fioncat/ter2048
+module github.com/fioncat/tergame-2048
 
 go 1.16
 
