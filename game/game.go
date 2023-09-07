@@ -3,7 +3,7 @@ package game
 import (
 	"fmt"
 
-	"github.com/fioncat/ter2048/draw"
+	"github.com/fioncat/tergame-2048/draw"
 	"github.com/nsf/termbox-go"
 )
 

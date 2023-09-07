@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/fioncat/ter2048/game"
+	"github.com/fioncat/tergame-2048/game"
 	"github.com/spf13/cobra"
 )
 
